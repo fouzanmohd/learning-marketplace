@@ -1,0 +1,12 @@
+.square{
+    border-radius: 0;
+}
+
+.menu{
+    padding:10px 0;
+}
+.jumbotron{
+    padding:50px 0;
+    background-image:linear-gradient(to right, #fff2, #000);
+    color: #fff;
+}
